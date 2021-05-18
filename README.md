@@ -27,3 +27,5 @@ Here is an animation of the partitioning (leaves of the shifty-quadtree):
   <img width="175" height="175" src="https://github.com/rosa-rzi/Shifty-Quad-Tree-Project/blob/2841c3a198f6c8b2ba845cae4987e9eb4559082a/images/pacman.gif">
 </p>
 
+#Acknowledgment
+This project is a programming assignment for UBC's Data Algortihms and Structures class offered in 2020W2. My partner, Ishraq Mostaf, and I received a grade of 100%
