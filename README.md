@@ -1,4 +1,4 @@
-# Shifty-Quad-Tree-Project
+# Shifty Quad Tree
 > Programming Language: C++
 
 > Testing: GDB, Valgrind
