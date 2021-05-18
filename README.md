@@ -1,6 +1,8 @@
 # Shifty-Quad-Tree-Project
 > Programming Language: C++
 
+> Testing: GDB, Valgrind
+
 > IDE: Visual Studio
 
 ---
