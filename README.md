@@ -8,9 +8,10 @@
 ---
 About
 ---
-This project is inspired by an artist who recreates classic portraits with a blocky effect. The result is shown below:
-![input]
-![output]
+This project is inspired by an artist who recreates classic portraits with a blocky effect. This is achieved by creating functions that compute statistics, such as variance and average, and recursively splitting the image. 
+
+![input]()
+![output]()
 
 ---
 Implementation Strategy
