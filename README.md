@@ -35,4 +35,4 @@ Here is an animation of the partitioning (leaves of the shifty-quadtree):
 
 **Acknowledgment**
 
-This project is a programming assignment for UBC's Data Algortihms and Structures class offered in 2020W2. My partner, Ishraq Mostaf, and I received a grade of 100%
+This project is a programming assignment for UBC's Data Algortihms and Structures class offered in 2020W2 therefore I will not post the code (contains full implementation of functions) and for that reason I only uploaded the header files. My partner, Ishraq Mostaf, and I received a grade of 100%.
