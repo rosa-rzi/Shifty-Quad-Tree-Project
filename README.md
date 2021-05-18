@@ -10,8 +10,14 @@ About
 ---
 This project is inspired by an artist who recreates classic portraits with a blocky effect. This is achieved by creating functions that compute statistics, such as variance and average, and recursively splitting the image. 
 
-![input]()
-![output]()
+<p align="center">
+  <img width="175" height="175" src="https://github.com/rosa-rzi/Shifty-Quad-Tree-Project/blob/3bb7ae824eb2758e61c76968d1cb2401d2827727/images/Screen%20Shot%202021-05-18%20at%203.22.17%20PM.png">
+</p>
+
+<p align="center">
+  <img width="175" height="175" src="https://github.com/rosa-rzi/Shifty-Quad-Tree-Project/blob/3bb7ae824eb2758e61c76968d1cb2401d2827727/images/Screen%20Shot%202021-05-18%20at%203.22.24%20PM.png">
+</p>
+
 
 ---
 Implementation Strategy
